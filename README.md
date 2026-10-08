@@ -23,7 +23,7 @@ amb els videojocs.
 - Llenguatges: Java
 - Línia de comandes: Terminal
 - Bases de dades: coneixements inicials de SQL
-- Entorns i eines: Visual Studio Code, IntelliJ IDEA
+- Entorns i eines: Visual Studio Code, Drupal, SQL
 - Altres: HTML i CSS (coneixements inicials)
 
 
